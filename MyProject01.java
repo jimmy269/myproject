@@ -15,6 +15,9 @@ public class MyProject01 {
      */
     public static void main(String[] args) {
         System.out.println("hello JIMMY");
+        System.out.println("test for some save ah ha that can use rigth?");
+        System.out.println("Hello Worlds!"); // lab 5
+
     }
     
 }
